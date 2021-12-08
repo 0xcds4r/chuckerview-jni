@@ -1,3 +1,3 @@
 # chuckerview-jni
 
-apk: app\build\outputs\apk\release
+java app: https://github.com/Codeesar/chucker-view
